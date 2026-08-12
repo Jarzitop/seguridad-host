@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Seguridad en el Host — Programación en C
 
 Repositorio de estudio y práctica para la materia **Seguridad en el Host**.
