@@ -1,0 +1,13 @@
+# Ejecutables y archivos generados
+build/
+*.o
+*.out
+*.exe
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
